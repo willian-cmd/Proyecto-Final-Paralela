@@ -1,1 +1,1 @@
-# Proyecto-Final-Paralela
+Proyecto Final de Programaci¢n Paralela 
